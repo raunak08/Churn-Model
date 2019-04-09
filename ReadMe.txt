@@ -7,11 +7,12 @@ There are 3 jupyter notebook files in total:
 
 3. The 'NN_Model_2.ipynb' is the notebook containing the second neural network model.
 
-*** 
+******** 
 This is done because, I could not install tensorflow on my system.
 
 Also since I cannot use it, file #2 and file #3 are written in google colab notebook instead of jupyter.   
 
+********
 
 Customer retention is a top priority for many companies. Acquiring more customers can be more 
 expensive than retaining customers. A churn model can be a tool that brings these elements 
